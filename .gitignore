@@ -1,4 +1,4 @@
 node_modules/
 google_transit/
 package-lock.json
-.DS_LOCK
+.DS_Store
